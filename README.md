@@ -1,2 +1,3 @@
 # hello-world
-Just a HelloWorld Repo
+
+This is a Hello World project that was created for testing purposes.
